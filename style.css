@@ -375,6 +375,9 @@ body {
   margin-bottom: 40px;
   list-style-type: none;
 }
+.contact-details ul{
+  margin-top: 1%;
+}
 .about-us p {
   font-family: 'Alegreya Sans';
   font-size: 16px;
